@@ -3,7 +3,11 @@
 // PROBLEM ://
 
 /*
-scientists could see that the Death Valley Sheep Situation would quickly get out of control. 67,000,000 bighorn sheep are reported to be hard to handle. The scientists have decided that, for any month the population is above 10,000, half of the sheep will be sent to other regions that have endangered populations. The rate at which the staying population grows, however, will stay the same (x4).
+scientists could see that the Death Valley Sheep Situation would quickly 
+get out of control. 67,000,000 bighorn sheep are reported to be hard to handle. 
+The scientists have decided that, for any month the population is above 10,000, 
+half of the sheep will be sent to other regions that have endangered populations. 
+The rate at which the staying population grows, however, will stay the same (x4).
 
   Write code using for loop , and insert a conditional that:
   1.Halves the sheep population AND 
