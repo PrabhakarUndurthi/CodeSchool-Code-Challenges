@@ -2,9 +2,17 @@
 //PROBLEM 2://
 
 /*
-The Hoover Dam has 19 generators of multiple types. For simplicity, let’s say that the first 4 of these generators output 62 Megawatts, and the other 15 output 124 Megawatts. In hooverDam.js, the Dam Rangers have asked you to design a system of two loops that turns each generator on in progression, and prints the new total of Megawatts generated.
+The Hoover Dam has 19 generators of multiple types. For simplicity, 
+let’s say that the first 4 of these generators output 62 Megawatts, 
+and the other 15 output 124 Megawatts. In hooverDam.js, the Dam Rangers 
+have asked you to design a system of two loops that turns each generator on in progression, 
+and prints the new total of Megawatts generated.
 
-They’d like the first loop to be a while-loop handling the first 4 generators (they have not indicated why they have a preference, alas). Then, they’d like the second loop to be a for-loop that handles the other 15 generators. Each output line should resemble the following lines, with adjusted values where appropriate:
+They’d like the first loop to be a while-loop handling the first 4 generators 
+(they have not indicated why they have a preference, alas). Then, they’d like 
+the second loop to be a for-loop that handles the other 15 generators. Each output 
+line  should resemble the following lines, with adjusted values where appropriate:
+
 
 SAMPLE OUTPUT TEXT: Generator #1 is on, adding 62 MW, for a total of 62 MW!
                     Generator #2 is on, adding 62 MW, for a total of 124 MW!
